@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          [HFR] ego posts
-// @version       0.9.3
+// @version       0.1.0
 // @namespace     homnomnom.fr
 // @description   colore en bleu les posts que l'on a posté
 // @icon          http://reho.st/self/8be6cfd410001113ffc0e909a807205fdb5b6751.png
